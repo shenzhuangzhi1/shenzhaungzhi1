@@ -1,9 +1,7 @@
 #  🙋 Hello
 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<div align="center">
-    <img src="https://metrics.lecoq.io/shenzhuangzhi1?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai">
-</div>
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shenzhuangzhi1&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
